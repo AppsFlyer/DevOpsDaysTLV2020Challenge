@@ -1,0 +1,1600 @@
+Gil: I can do Tuesday at 11:00
+Eli: I can do Sunday at 13:00
+Yakir: I can do Thursday at 19:00
+Michael: I can do Sunday at 18:00
+Andrii: I can do Tuesday at 19:00
+George: I can do Sunday at 17:00
+Daniel: I can do Thursday at 15:00
+Nivi: I can do Sunday at 16:00
+Gil: My yard is available Wednesday at 10:00
+Eli: My yard is available Monday at 12:00
+Yakir: My yard is available Tuesday at 17:00
+Michael: My yard is available Tuesday at 12:00
+Andrii: My yard is available Thursday at 16:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Tuesday at 15:00
+Nivi: My yard is available Sunday at 12:00
+Gil: I can do Monday at 19:00
+Eli: I can do Sunday at 13:00
+Yakir: I can do Wednesday at 14:00
+Michael: I can do Wednesday at 14:00
+Andrii: I can do Tuesday at 12:00
+George: I can do Sunday at 17:00
+Daniel: I can do Tuesday at 14:00
+Nivi: I can do Monday at 10:00
+Gil: My yard is available Tuesday at 13:00
+Eli: My yard is available Wednesday at 19:00
+Yakir: My yard is available Monday at 11:00
+Michael: My yard is available Thursday at 18:00
+Andrii: My yard is available Monday at 19:00
+George: My yard is available Thursday at 19:00
+Daniel: My yard is available Wednesday at 16:00
+Nivi: My yard is available Sunday at 10:00
+Gil: I can do Sunday at 15:00
+Eli: I can do Tuesday at 10:00
+Yakir: I can do Thursday at 12:00
+Michael: I can do Tuesday at 11:00
+Andrii: I can do Tuesday at 18:00
+George: I can do Thursday at 12:00
+Daniel: I can do Sunday at 19:00
+Nivi: I can do Wednesday at 17:00
+Gil: My yard is available Sunday at 18:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Wednesday at 16:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Monday at 19:00
+George: My yard is available Thursday at 16:00
+Daniel: My yard is available Monday at 16:00
+Nivi: My yard is available Sunday at 15:00
+Gil: I can do Monday at 11:00
+Eli: I can do Wednesday at 11:00
+Yakir: I can do Wednesday at 10:00
+Michael: I can do Sunday at 16:00
+Andrii: I can do Wednesday at 19:00
+George: I can do Sunday at 16:00
+Daniel: I can do Monday at 19:00
+Nivi: I can do Thursday at 18:00
+Gil: My yard is available Thursday at 10:00
+Eli: My yard is available Tuesday at 18:00
+Yakir: My yard is available Thursday at 10:00
+Michael: My yard is available Tuesday at 19:00
+Andrii: My yard is available Monday at 13:00
+George: My yard is available Monday at 18:00
+Daniel: My yard is available Thursday at 15:00
+Nivi: My yard is available Wednesday at 19:00
+Gil: I can do Thursday at 15:00
+Eli: I can do Sunday at 16:00
+Yakir: I can do Monday at 13:00
+Michael: I can do Sunday at 11:00
+Andrii: I can do Thursday at 17:00
+George: I can do Sunday at 16:00
+Daniel: I can do Wednesday at 18:00
+Nivi: I can do Thursday at 18:00
+Gil: My yard is available Monday at 16:00
+Eli: My yard is available Wednesday at 11:00
+Yakir: My yard is available Wednesday at 19:00
+Michael: My yard is available Monday at 19:00
+Andrii: My yard is available Sunday at 13:00
+George: My yard is available Monday at 18:00
+Daniel: My yard is available Wednesday at 13:00
+Nivi: My yard is available Wednesday at 19:00
+Gil: I can do Wednesday at 16:00
+Eli: I can do Tuesday at 14:00
+Yakir: I can do Tuesday at 15:00
+Michael: I can do Tuesday at 16:00
+Andrii: I can do Tuesday at 11:00
+George: I can do Sunday at 14:00
+Daniel: I can do Monday at 13:00
+Nivi: I can do Sunday at 12:00
+Gil: My yard is available Wednesday at 13:00
+Eli: My yard is available Thursday at 10:00
+Yakir: My yard is available Monday at 19:00
+Michael: My yard is available Tuesday at 16:00
+Andrii: My yard is available Sunday at 18:00
+George: My yard is available Wednesday at 18:00
+Daniel: My yard is available Tuesday at 16:00
+Nivi: My yard is available Tuesday at 14:00
+Gil: I can do Monday at 10:00
+Eli: I can do Wednesday at 15:00
+Yakir: I can do Wednesday at 13:00
+Michael: I can do Tuesday at 17:00
+Andrii: I can do Wednesday at 16:00
+George: I can do Thursday at 17:00
+Daniel: I can do Sunday at 16:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Monday at 12:00
+Eli: My yard is available Wednesday at 18:00
+Yakir: My yard is available Thursday at 12:00
+Michael: My yard is available Sunday at 10:00
+Andrii: My yard is available Thursday at 13:00
+George: My yard is available Wednesday at 18:00
+Daniel: My yard is available Thursday at 10:00
+Nivi: My yard is available Tuesday at 19:00
+Gil: I can do Wednesday at 14:00
+Eli: I can do Wednesday at 12:00
+Yakir: I can do Tuesday at 18:00
+Michael: I can do Tuesday at 18:00
+Andrii: I can do Sunday at 12:00
+George: I can do Sunday at 13:00
+Daniel: I can do Monday at 16:00
+Nivi: I can do Sunday at 16:00
+Gil: My yard is available Wednesday at 14:00
+Eli: My yard is available Sunday at 12:00
+Yakir: My yard is available Tuesday at 15:00
+Michael: My yard is available Wednesday at 19:00
+Andrii: My yard is available Tuesday at 15:00
+George: My yard is available Tuesday at 17:00
+Daniel: My yard is available Sunday at 10:00
+Nivi: My yard is available Thursday at 10:00
+Gil: I can do Thursday at 18:00
+Eli: I can do Tuesday at 11:00
+Yakir: I can do Thursday at 16:00
+Michael: I can do Thursday at 17:00
+Andrii: I can do Wednesday at 18:00
+George: I can do Thursday at 18:00
+Daniel: I can do Monday at 14:00
+Nivi: I can do Sunday at 15:00
+Gil: My yard is available Sunday at 16:00
+Eli: My yard is available Tuesday at 11:00
+Yakir: My yard is available Sunday at 12:00
+Michael: My yard is available Tuesday at 18:00
+Andrii: My yard is available Sunday at 14:00
+George: My yard is available Sunday at 17:00
+Daniel: My yard is available Monday at 18:00
+Nivi: My yard is available Thursday at 19:00
+Gil: I can do Wednesday at 16:00
+Eli: I can do Tuesday at 15:00
+Yakir: I can do Sunday at 11:00
+Michael: I can do Tuesday at 11:00
+Andrii: I can do Tuesday at 12:00
+George: I can do Tuesday at 10:00
+Daniel: I can do Monday at 12:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Sunday at 15:00
+Eli: My yard is available Wednesday at 19:00
+Yakir: My yard is available Sunday at 19:00
+Michael: My yard is available Thursday at 15:00
+Andrii: My yard is available Thursday at 17:00
+George: My yard is available Tuesday at 11:00
+Daniel: My yard is available Sunday at 17:00
+Nivi: My yard is available Thursday at 12:00
+Gil: I can do Thursday at 17:00
+Eli: I can do Monday at 10:00
+Yakir: I can do Sunday at 12:00
+Michael: I can do Thursday at 11:00
+Andrii: I can do Thursday at 18:00
+George: I can do Thursday at 18:00
+Daniel: I can do Tuesday at 10:00
+Nivi: I can do Thursday at 19:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Monday at 14:00
+Yakir: My yard is available Sunday at 16:00
+Michael: My yard is available Sunday at 15:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Tuesday at 15:00
+Daniel: My yard is available Wednesday at 11:00
+Nivi: My yard is available Tuesday at 16:00
+Gil: I can do Sunday at 19:00
+Eli: I can do Wednesday at 18:00
+Yakir: I can do Thursday at 15:00
+Michael: I can do Monday at 19:00
+Andrii: I can do Tuesday at 12:00
+George: I can do Wednesday at 10:00
+Daniel: I can do Sunday at 16:00
+Nivi: I can do Monday at 17:00
+Gil: My yard is available Wednesday at 13:00
+Eli: My yard is available Tuesday at 15:00
+Yakir: My yard is available Sunday at 10:00
+Michael: My yard is available Monday at 17:00
+Andrii: My yard is available Wednesday at 18:00
+George: My yard is available Tuesday at 12:00
+Daniel: My yard is available Tuesday at 13:00
+Nivi: My yard is available Sunday at 10:00
+Gil: I can do Monday at 10:00
+Eli: I can do Tuesday at 17:00
+Yakir: I can do Thursday at 14:00
+Michael: I can do Wednesday at 11:00
+Andrii: I can do Monday at 16:00
+George: I can do Wednesday at 13:00
+Daniel: I can do Tuesday at 18:00
+Nivi: I can do Thursday at 19:00
+Gil: My yard is available Sunday at 10:00
+Eli: My yard is available Thursday at 15:00
+Yakir: My yard is available Monday at 12:00
+Michael: My yard is available Sunday at 15:00
+Andrii: My yard is available Monday at 15:00
+George: My yard is available Sunday at 15:00
+Daniel: My yard is available Monday at 15:00
+Nivi: My yard is available Tuesday at 15:00
+Gil: I can do Monday at 15:00
+Eli: I can do Monday at 10:00
+Yakir: I can do Wednesday at 15:00
+Michael: I can do Wednesday at 10:00
+Andrii: I can do Sunday at 12:00
+George: I can do Tuesday at 11:00
+Daniel: I can do Thursday at 13:00
+Nivi: I can do Thursday at 17:00
+Gil: My yard is available Wednesday at 17:00
+Eli: My yard is available Wednesday at 12:00
+Yakir: My yard is available Wednesday at 18:00
+Michael: My yard is available Tuesday at 11:00
+Andrii: My yard is available Tuesday at 17:00
+George: My yard is available Sunday at 15:00
+Daniel: My yard is available Wednesday at 13:00
+Nivi: My yard is available Monday at 15:00
+Gil: I can do Wednesday at 11:00
+Eli: I can do Tuesday at 10:00
+Yakir: I can do Sunday at 12:00
+Michael: I can do Thursday at 17:00
+Andrii: I can do Monday at 16:00
+George: I can do Monday at 18:00
+Daniel: I can do Tuesday at 10:00
+Nivi: I can do Sunday at 14:00
+Gil: My yard is available Wednesday at 17:00
+Eli: My yard is available Tuesday at 15:00
+Yakir: My yard is available Thursday at 12:00
+Michael: My yard is available Monday at 10:00
+Andrii: My yard is available Tuesday at 19:00
+George: My yard is available Tuesday at 17:00
+Daniel: My yard is available Monday at 10:00
+Nivi: My yard is available Monday at 17:00
+Gil: I can do Wednesday at 15:00
+Eli: I can do Wednesday at 18:00
+Yakir: I can do Wednesday at 14:00
+Michael: I can do Wednesday at 10:00
+Andrii: I can do Sunday at 12:00
+George: I can do Wednesday at 17:00
+Daniel: I can do Wednesday at 12:00
+Nivi: I can do Sunday at 14:00
+Gil: My yard is available Wednesday at 18:00
+Eli: My yard is available Thursday at 17:00
+Yakir: My yard is available Sunday at 18:00
+Michael: My yard is available Monday at 12:00
+Andrii: My yard is available Thursday at 12:00
+George: My yard is available Wednesday at 18:00
+Daniel: My yard is available Wednesday at 13:00
+Nivi: My yard is available Monday at 12:00
+Gil: I can do Wednesday at 10:00
+Eli: I can do Monday at 10:00
+Yakir: I can do Thursday at 14:00
+Michael: I can do Wednesday at 10:00
+Andrii: I can do Wednesday at 18:00
+George: I can do Tuesday at 18:00
+Daniel: I can do Tuesday at 18:00
+Nivi: I can do Sunday at 19:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Monday at 12:00
+Yakir: My yard is available Thursday at 14:00
+Michael: My yard is available Sunday at 10:00
+Andrii: My yard is available Sunday at 16:00
+George: My yard is available Monday at 13:00
+Daniel: My yard is available Wednesday at 14:00
+Nivi: My yard is available Thursday at 10:00
+Gil: I can do Wednesday at 16:00
+Eli: I can do Sunday at 14:00
+Yakir: I can do Tuesday at 15:00
+Michael: I can do Wednesday at 16:00
+Andrii: I can do Wednesday at 18:00
+George: I can do Monday at 13:00
+Daniel: I can do Wednesday at 10:00
+Nivi: I can do Tuesday at 15:00
+Gil: My yard is available Sunday at 15:00
+Eli: My yard is available Monday at 16:00
+Yakir: My yard is available Sunday at 13:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Tuesday at 18:00
+George: My yard is available Sunday at 13:00
+Daniel: My yard is available Monday at 17:00
+Nivi: My yard is available Monday at 19:00
+Gil: I can do Thursday at 13:00
+Eli: I can do Sunday at 10:00
+Yakir: I can do Wednesday at 17:00
+Michael: I can do Thursday at 10:00
+Andrii: I can do Wednesday at 10:00
+George: I can do Thursday at 19:00
+Daniel: I can do Thursday at 14:00
+Nivi: I can do Wednesday at 17:00
+Gil: My yard is available Sunday at 11:00
+Eli: My yard is available Thursday at 10:00
+Yakir: My yard is available Wednesday at 19:00
+Michael: My yard is available Monday at 16:00
+Andrii: My yard is available Thursday at 10:00
+George: My yard is available Wednesday at 14:00
+Daniel: My yard is available Tuesday at 18:00
+Nivi: My yard is available Sunday at 17:00
+Gil: I can do Sunday at 10:00
+Eli: I can do Tuesday at 11:00
+Yakir: I can do Tuesday at 12:00
+Michael: I can do Wednesday at 15:00
+Andrii: I can do Sunday at 14:00
+George: I can do Tuesday at 18:00
+Daniel: I can do Sunday at 13:00
+Nivi: I can do Wednesday at 14:00
+Gil: My yard is available Sunday at 19:00
+Eli: My yard is available Sunday at 16:00
+Yakir: My yard is available Thursday at 14:00
+Michael: My yard is available Sunday at 12:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Thursday at 18:00
+Daniel: My yard is available Wednesday at 14:00
+Nivi: My yard is available Sunday at 14:00
+Gil: I can do Thursday at 16:00
+Eli: I can do Sunday at 13:00
+Yakir: I can do Wednesday at 12:00
+Michael: I can do Sunday at 14:00
+Andrii: I can do Wednesday at 10:00
+George: I can do Tuesday at 11:00
+Daniel: I can do Tuesday at 11:00
+Nivi: I can do Wednesday at 14:00
+Gil: My yard is available Thursday at 12:00
+Eli: My yard is available Sunday at 10:00
+Yakir: My yard is available Wednesday at 13:00
+Michael: My yard is available Thursday at 19:00
+Andrii: My yard is available Thursday at 11:00
+George: My yard is available Tuesday at 11:00
+Daniel: My yard is available Sunday at 18:00
+Nivi: My yard is available Tuesday at 18:00
+Gil: I can do Thursday at 10:00
+Eli: I can do Tuesday at 12:00
+Yakir: I can do Wednesday at 10:00
+Michael: I can do Tuesday at 13:00
+Andrii: I can do Sunday at 13:00
+George: I can do Tuesday at 13:00
+Daniel: I can do Monday at 12:00
+Nivi: I can do Wednesday at 18:00
+Gil: My yard is available Sunday at 15:00
+Eli: My yard is available Wednesday at 11:00
+Yakir: My yard is available Wednesday at 16:00
+Michael: My yard is available Wednesday at 17:00
+Andrii: My yard is available Thursday at 18:00
+George: My yard is available Sunday at 17:00
+Daniel: My yard is available Monday at 13:00
+Nivi: My yard is available Thursday at 13:00
+Gil: I can do Tuesday at 12:00
+Eli: I can do Tuesday at 17:00
+Yakir: I can do Sunday at 13:00
+Michael: I can do Wednesday at 15:00
+Andrii: I can do Tuesday at 15:00
+George: I can do Wednesday at 16:00
+Daniel: I can do Thursday at 18:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Tuesday at 19:00
+Eli: My yard is available Sunday at 17:00
+Yakir: My yard is available Thursday at 10:00
+Michael: My yard is available Monday at 13:00
+Andrii: My yard is available Wednesday at 16:00
+George: My yard is available Thursday at 11:00
+Daniel: My yard is available Thursday at 16:00
+Nivi: My yard is available Thursday at 18:00
+Gil: I can do Thursday at 11:00
+Eli: I can do Monday at 11:00
+Yakir: I can do Tuesday at 10:00
+Michael: I can do Thursday at 16:00
+Andrii: I can do Thursday at 14:00
+George: I can do Tuesday at 17:00
+Daniel: I can do Monday at 10:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Thursday at 19:00
+Eli: My yard is available Thursday at 15:00
+Yakir: My yard is available Tuesday at 18:00
+Michael: My yard is available Thursday at 16:00
+Andrii: My yard is available Sunday at 11:00
+George: My yard is available Tuesday at 12:00
+Daniel: My yard is available Monday at 10:00
+Nivi: My yard is available Tuesday at 18:00
+Gil: I can do Thursday at 14:00
+Eli: I can do Thursday at 16:00
+Yakir: I can do Tuesday at 11:00
+Michael: I can do Monday at 16:00
+Andrii: I can do Wednesday at 10:00
+George: I can do Thursday at 17:00
+Daniel: I can do Sunday at 18:00
+Nivi: I can do Monday at 16:00
+Gil: My yard is available Wednesday at 17:00
+Eli: My yard is available Thursday at 12:00
+Yakir: My yard is available Sunday at 18:00
+Michael: My yard is available Monday at 10:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Monday at 14:00
+Daniel: My yard is available Wednesday at 19:00
+Nivi: My yard is available Wednesday at 17:00
+Gil: I can do Tuesday at 13:00
+Eli: I can do Thursday at 16:00
+Yakir: I can do Monday at 18:00
+Michael: I can do Wednesday at 19:00
+Andrii: I can do Monday at 14:00
+George: I can do Tuesday at 12:00
+Daniel: I can do Monday at 14:00
+Nivi: I can do Sunday at 11:00
+Gil: My yard is available Tuesday at 12:00
+Eli: My yard is available Thursday at 19:00
+Yakir: My yard is available Wednesday at 17:00
+Michael: My yard is available Sunday at 17:00
+Andrii: My yard is available Thursday at 14:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Sunday at 16:00
+Nivi: My yard is available Monday at 16:00
+Gil: I can do Monday at 12:00
+Eli: I can do Wednesday at 17:00
+Yakir: I can do Sunday at 16:00
+Michael: I can do Sunday at 12:00
+Andrii: I can do Thursday at 18:00
+George: I can do Sunday at 10:00
+Daniel: I can do Tuesday at 19:00
+Nivi: I can do Tuesday at 12:00
+Gil: My yard is available Wednesday at 14:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Tuesday at 12:00
+Michael: My yard is available Thursday at 12:00
+Andrii: My yard is available Sunday at 14:00
+George: My yard is available Tuesday at 13:00
+Daniel: My yard is available Monday at 12:00
+Nivi: My yard is available Thursday at 16:00
+Gil: I can do Tuesday at 18:00
+Eli: I can do Tuesday at 13:00
+Yakir: I can do Tuesday at 10:00
+Michael: I can do Tuesday at 12:00
+Andrii: I can do Thursday at 17:00
+George: I can do Monday at 16:00
+Daniel: I can do Thursday at 13:00
+Nivi: I can do Thursday at 10:00
+Gil: My yard is available Thursday at 14:00
+Eli: My yard is available Sunday at 13:00
+Yakir: My yard is available Thursday at 11:00
+Michael: My yard is available Tuesday at 16:00
+Andrii: My yard is available Monday at 11:00
+George: My yard is available Wednesday at 15:00
+Daniel: My yard is available Sunday at 13:00
+Nivi: My yard is available Sunday at 17:00
+Gil: I can do Sunday at 17:00
+Eli: I can do Wednesday at 13:00
+Yakir: I can do Thursday at 19:00
+Michael: I can do Sunday at 10:00
+Andrii: I can do Tuesday at 17:00
+George: I can do Thursday at 12:00
+Daniel: I can do Monday at 15:00
+Nivi: I can do Monday at 19:00
+Gil: My yard is available Wednesday at 10:00
+Eli: My yard is available Thursday at 19:00
+Yakir: My yard is available Wednesday at 13:00
+Michael: My yard is available Monday at 12:00
+Andrii: My yard is available Wednesday at 14:00
+George: My yard is available Sunday at 18:00
+Daniel: My yard is available Sunday at 11:00
+Nivi: My yard is available Wednesday at 10:00
+Gil: I can do Monday at 13:00
+Eli: I can do Thursday at 13:00
+Yakir: I can do Wednesday at 10:00
+Michael: I can do Monday at 18:00
+Andrii: I can do Monday at 16:00
+George: I can do Monday at 19:00
+Daniel: I can do Sunday at 18:00
+Nivi: I can do Monday at 14:00
+Gil: My yard is available Sunday at 15:00
+Eli: My yard is available Sunday at 12:00
+Yakir: My yard is available Sunday at 17:00
+Michael: My yard is available Thursday at 18:00
+Andrii: My yard is available Sunday at 14:00
+George: My yard is available Thursday at 12:00
+Daniel: My yard is available Monday at 10:00
+Nivi: My yard is available Sunday at 19:00
+Gil: I can do Monday at 11:00
+Eli: I can do Wednesday at 19:00
+Yakir: I can do Thursday at 16:00
+Michael: I can do Tuesday at 18:00
+Andrii: I can do Tuesday at 13:00
+George: I can do Monday at 17:00
+Daniel: I can do Wednesday at 10:00
+Nivi: I can do Thursday at 16:00
+Gil: My yard is available Thursday at 13:00
+Eli: My yard is available Thursday at 16:00
+Yakir: My yard is available Sunday at 13:00
+Michael: My yard is available Tuesday at 15:00
+Andrii: My yard is available Monday at 13:00
+George: My yard is available Sunday at 11:00
+Daniel: My yard is available Tuesday at 13:00
+Nivi: My yard is available Thursday at 13:00
+Gil: I can do Thursday at 11:00
+Eli: I can do Wednesday at 10:00
+Yakir: I can do Tuesday at 14:00
+Michael: I can do Wednesday at 12:00
+Andrii: I can do Thursday at 18:00
+George: I can do Wednesday at 19:00
+Daniel: I can do Sunday at 12:00
+Nivi: I can do Thursday at 17:00
+Gil: My yard is available Tuesday at 11:00
+Eli: My yard is available Wednesday at 18:00
+Yakir: My yard is available Tuesday at 19:00
+Michael: My yard is available Monday at 14:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Monday at 10:00
+Daniel: My yard is available Wednesday at 19:00
+Nivi: My yard is available Monday at 11:00
+Gil: I can do Wednesday at 13:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Sunday at 11:00
+Michael: I can do Thursday at 19:00
+Andrii: I can do Tuesday at 10:00
+George: I can do Wednesday at 18:00
+Daniel: I can do Monday at 17:00
+Nivi: I can do Wednesday at 18:00
+Gil: My yard is available Sunday at 19:00
+Eli: My yard is available Sunday at 15:00
+Yakir: My yard is available Thursday at 14:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Sunday at 14:00
+George: My yard is available Tuesday at 15:00
+Daniel: My yard is available Thursday at 12:00
+Nivi: My yard is available Wednesday at 18:00
+Gil: I can do Sunday at 11:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Thursday at 15:00
+Michael: I can do Tuesday at 12:00
+Andrii: I can do Tuesday at 13:00
+George: I can do Thursday at 18:00
+Daniel: I can do Tuesday at 15:00
+Nivi: I can do Thursday at 11:00
+Gil: My yard is available Monday at 14:00
+Eli: My yard is available Tuesday at 11:00
+Yakir: My yard is available Monday at 13:00
+Michael: My yard is available Monday at 15:00
+Andrii: My yard is available Tuesday at 15:00
+George: My yard is available Thursday at 15:00
+Daniel: My yard is available Wednesday at 11:00
+Nivi: My yard is available Thursday at 18:00
+Gil: I can do Wednesday at 15:00
+Eli: I can do Tuesday at 15:00
+Yakir: I can do Thursday at 10:00
+Michael: I can do Monday at 14:00
+Andrii: I can do Tuesday at 18:00
+George: I can do Sunday at 11:00
+Daniel: I can do Monday at 19:00
+Nivi: I can do Monday at 16:00
+Gil: My yard is available Thursday at 15:00
+Eli: My yard is available Wednesday at 10:00
+Yakir: My yard is available Thursday at 19:00
+Michael: My yard is available Monday at 13:00
+Andrii: My yard is available Thursday at 13:00
+George: My yard is available Tuesday at 19:00
+Daniel: My yard is available Monday at 13:00
+Nivi: My yard is available Tuesday at 13:00
+Gil: I can do Thursday at 13:00
+Eli: I can do Wednesday at 17:00
+Yakir: I can do Sunday at 15:00
+Michael: I can do Monday at 12:00
+Andrii: I can do Thursday at 13:00
+George: I can do Monday at 16:00
+Daniel: I can do Sunday at 18:00
+Nivi: I can do Tuesday at 12:00
+Gil: My yard is available Thursday at 14:00
+Eli: My yard is available Sunday at 13:00
+Yakir: My yard is available Thursday at 15:00
+Michael: My yard is available Monday at 18:00
+Andrii: My yard is available Wednesday at 13:00
+George: My yard is available Monday at 18:00
+Daniel: My yard is available Thursday at 12:00
+Nivi: My yard is available Wednesday at 15:00
+Gil: I can do Tuesday at 16:00
+Eli: I can do Thursday at 16:00
+Yakir: I can do Sunday at 14:00
+Michael: I can do Wednesday at 11:00
+Andrii: I can do Wednesday at 11:00
+George: I can do Wednesday at 19:00
+Daniel: I can do Wednesday at 11:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Wednesday at 18:00
+Eli: My yard is available Tuesday at 12:00
+Yakir: My yard is available Sunday at 16:00
+Michael: My yard is available Sunday at 16:00
+Andrii: My yard is available Monday at 11:00
+George: My yard is available Monday at 10:00
+Daniel: My yard is available Thursday at 18:00
+Nivi: My yard is available Sunday at 12:00
+Gil: I can do Wednesday at 16:00
+Eli: I can do Sunday at 16:00
+Yakir: I can do Thursday at 11:00
+Michael: I can do Wednesday at 14:00
+Andrii: I can do Thursday at 14:00
+George: I can do Wednesday at 16:00
+Daniel: I can do Monday at 14:00
+Nivi: I can do Monday at 17:00
+Gil: My yard is available Wednesday at 18:00
+Eli: My yard is available Sunday at 12:00
+Yakir: My yard is available Sunday at 17:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Tuesday at 11:00
+George: My yard is available Tuesday at 13:00
+Daniel: My yard is available Sunday at 12:00
+Nivi: My yard is available Monday at 19:00
+Gil: I can do Monday at 12:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Wednesday at 18:00
+Michael: I can do Wednesday at 19:00
+Andrii: I can do Sunday at 19:00
+George: I can do Tuesday at 14:00
+Daniel: I can do Sunday at 13:00
+Nivi: I can do Monday at 17:00
+Gil: My yard is available Sunday at 12:00
+Eli: My yard is available Monday at 17:00
+Yakir: My yard is available Thursday at 16:00
+Michael: My yard is available Tuesday at 18:00
+Andrii: My yard is available Wednesday at 11:00
+George: My yard is available Sunday at 13:00
+Daniel: My yard is available Monday at 14:00
+Nivi: My yard is available Monday at 19:00
+Gil: I can do Tuesday at 17:00
+Eli: I can do Sunday at 15:00
+Yakir: I can do Monday at 12:00
+Michael: I can do Sunday at 18:00
+Andrii: I can do Wednesday at 16:00
+George: I can do Thursday at 18:00
+Daniel: I can do Wednesday at 12:00
+Nivi: I can do Sunday at 11:00
+Gil: My yard is available Thursday at 15:00
+Eli: My yard is available Monday at 13:00
+Yakir: My yard is available Wednesday at 17:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Wednesday at 13:00
+George: My yard is available Sunday at 17:00
+Daniel: My yard is available Thursday at 10:00
+Nivi: My yard is available Sunday at 16:00
+Gil: I can do Wednesday at 10:00
+Eli: I can do Thursday at 12:00
+Yakir: I can do Wednesday at 16:00
+Michael: I can do Monday at 19:00
+Andrii: I can do Wednesday at 12:00
+George: I can do Wednesday at 16:00
+Daniel: I can do Tuesday at 13:00
+Nivi: I can do Monday at 18:00
+Gil: My yard is available Thursday at 14:00
+Eli: My yard is available Tuesday at 11:00
+Yakir: My yard is available Thursday at 18:00
+Michael: My yard is available Wednesday at 12:00
+Andrii: My yard is available Monday at 10:00
+George: My yard is available Sunday at 11:00
+Daniel: My yard is available Monday at 12:00
+Nivi: My yard is available Thursday at 10:00
+Gil: I can do Wednesday at 16:00
+Eli: I can do Sunday at 12:00
+Yakir: I can do Monday at 14:00
+Michael: I can do Monday at 11:00
+Andrii: I can do Wednesday at 18:00
+George: I can do Tuesday at 19:00
+Daniel: I can do Sunday at 11:00
+Nivi: I can do Wednesday at 19:00
+Gil: My yard is available Monday at 15:00
+Eli: My yard is available Wednesday at 16:00
+Yakir: My yard is available Wednesday at 19:00
+Michael: My yard is available Wednesday at 16:00
+Andrii: My yard is available Monday at 17:00
+George: My yard is available Monday at 12:00
+Daniel: My yard is available Thursday at 14:00
+Nivi: My yard is available Thursday at 18:00
+Gil: I can do Tuesday at 11:00
+Eli: I can do Sunday at 10:00
+Yakir: I can do Thursday at 18:00
+Michael: I can do Wednesday at 13:00
+Andrii: I can do Thursday at 10:00
+George: I can do Monday at 12:00
+Daniel: I can do Sunday at 18:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Tuesday at 13:00
+Eli: My yard is available Thursday at 14:00
+Yakir: My yard is available Tuesday at 12:00
+Michael: My yard is available Sunday at 17:00
+Andrii: My yard is available Monday at 12:00
+George: My yard is available Thursday at 11:00
+Daniel: My yard is available Tuesday at 11:00
+Nivi: My yard is available Tuesday at 15:00
+Gil: I can do Thursday at 12:00
+Eli: I can do Wednesday at 15:00
+Yakir: I can do Monday at 15:00
+Michael: I can do Monday at 12:00
+Andrii: I can do Tuesday at 13:00
+George: I can do Monday at 19:00
+Daniel: I can do Wednesday at 12:00
+Nivi: I can do Thursday at 14:00
+Gil: My yard is available Monday at 17:00
+Eli: My yard is available Thursday at 10:00
+Yakir: My yard is available Thursday at 19:00
+Michael: My yard is available Wednesday at 10:00
+Andrii: My yard is available Wednesday at 15:00
+George: My yard is available Wednesday at 11:00
+Daniel: My yard is available Tuesday at 18:00
+Nivi: My yard is available Wednesday at 12:00
+Gil: I can do Thursday at 12:00
+Eli: I can do Thursday at 12:00
+Yakir: I can do Tuesday at 14:00
+Michael: I can do Tuesday at 17:00
+Andrii: I can do Monday at 13:00
+George: I can do Wednesday at 15:00
+Daniel: I can do Monday at 10:00
+Nivi: I can do Sunday at 17:00
+Gil: My yard is available Wednesday at 19:00
+Eli: My yard is available Sunday at 11:00
+Yakir: My yard is available Monday at 15:00
+Michael: My yard is available Tuesday at 15:00
+Andrii: My yard is available Sunday at 17:00
+George: My yard is available Wednesday at 18:00
+Daniel: My yard is available Tuesday at 18:00
+Nivi: My yard is available Thursday at 19:00
+Gil: I can do Tuesday at 11:00
+Eli: I can do Tuesday at 13:00
+Yakir: I can do Wednesday at 17:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Sunday at 15:00
+George: I can do Tuesday at 13:00
+Daniel: I can do Thursday at 15:00
+Nivi: I can do Sunday at 10:00
+Gil: My yard is available Wednesday at 11:00
+Eli: My yard is available Tuesday at 15:00
+Yakir: My yard is available Sunday at 10:00
+Michael: My yard is available Sunday at 10:00
+Andrii: My yard is available Monday at 12:00
+George: My yard is available Monday at 18:00
+Daniel: My yard is available Wednesday at 17:00
+Nivi: My yard is available Sunday at 14:00
+Gil: I can do Tuesday at 18:00
+Eli: I can do Thursday at 14:00
+Yakir: I can do Monday at 16:00
+Michael: I can do Wednesday at 11:00
+Andrii: I can do Wednesday at 12:00
+George: I can do Wednesday at 10:00
+Daniel: I can do Sunday at 12:00
+Nivi: I can do Sunday at 15:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Monday at 11:00
+Yakir: My yard is available Thursday at 15:00
+Michael: My yard is available Tuesday at 18:00
+Andrii: My yard is available Wednesday at 16:00
+George: My yard is available Monday at 14:00
+Daniel: My yard is available Monday at 15:00
+Nivi: My yard is available Tuesday at 16:00
+Gil: I can do Tuesday at 12:00
+Eli: I can do Tuesday at 12:00
+Yakir: I can do Tuesday at 12:00
+Michael: I can do Tuesday at 13:00
+Andrii: I can do Sunday at 15:00
+George: I can do Sunday at 12:00
+Daniel: I can do Thursday at 19:00
+Nivi: I can do Wednesday at 12:00
+Gil: My yard is available Thursday at 17:00
+Eli: My yard is available Monday at 16:00
+Yakir: My yard is available Thursday at 13:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Wednesday at 19:00
+George: My yard is available Sunday at 10:00
+Daniel: My yard is available Tuesday at 10:00
+Nivi: My yard is available Wednesday at 10:00
+Gil: I can do Wednesday at 15:00
+Eli: I can do Thursday at 11:00
+Yakir: I can do Wednesday at 17:00
+Michael: I can do Thursday at 13:00
+Andrii: I can do Monday at 10:00
+George: I can do Monday at 13:00
+Daniel: I can do Wednesday at 11:00
+Nivi: I can do Tuesday at 17:00
+Gil: My yard is available Tuesday at 14:00
+Eli: My yard is available Wednesday at 10:00
+Yakir: My yard is available Sunday at 13:00
+Michael: My yard is available Sunday at 17:00
+Andrii: My yard is available Sunday at 15:00
+George: My yard is available Thursday at 19:00
+Daniel: My yard is available Thursday at 19:00
+Nivi: My yard is available Monday at 16:00
+Gil: I can do Tuesday at 13:00
+Eli: I can do Sunday at 18:00
+Yakir: I can do Tuesday at 15:00
+Michael: I can do Monday at 17:00
+Andrii: I can do Wednesday at 17:00
+George: I can do Sunday at 18:00
+Daniel: I can do Wednesday at 11:00
+Nivi: I can do Monday at 18:00
+Gil: My yard is available Monday at 19:00
+Eli: My yard is available Monday at 11:00
+Yakir: My yard is available Thursday at 10:00
+Michael: My yard is available Monday at 16:00
+Andrii: My yard is available Monday at 12:00
+George: My yard is available Monday at 13:00
+Daniel: My yard is available Thursday at 17:00
+Nivi: My yard is available Sunday at 17:00
+Gil: I can do Thursday at 16:00
+Eli: I can do Thursday at 10:00
+Yakir: I can do Wednesday at 16:00
+Michael: I can do Thursday at 13:00
+Andrii: I can do Thursday at 11:00
+George: I can do Sunday at 14:00
+Daniel: I can do Sunday at 11:00
+Nivi: I can do Wednesday at 12:00
+Gil: My yard is available Tuesday at 12:00
+Eli: My yard is available Thursday at 16:00
+Yakir: My yard is available Thursday at 15:00
+Michael: My yard is available Sunday at 19:00
+Andrii: My yard is available Wednesday at 15:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Tuesday at 15:00
+Nivi: My yard is available Thursday at 19:00
+Gil: I can do Monday at 15:00
+Eli: I can do Tuesday at 16:00
+Yakir: I can do Wednesday at 14:00
+Michael: I can do Wednesday at 13:00
+Andrii: I can do Wednesday at 16:00
+George: I can do Wednesday at 15:00
+Daniel: I can do Monday at 12:00
+Nivi: I can do Sunday at 16:00
+Gil: My yard is available Tuesday at 13:00
+Eli: My yard is available Tuesday at 19:00
+Yakir: My yard is available Monday at 11:00
+Michael: My yard is available Sunday at 11:00
+Andrii: My yard is available Wednesday at 16:00
+George: My yard is available Tuesday at 17:00
+Daniel: My yard is available Tuesday at 17:00
+Nivi: My yard is available Wednesday at 17:00
+Gil: I can do Thursday at 19:00
+Eli: I can do Thursday at 14:00
+Yakir: I can do Monday at 18:00
+Michael: I can do Sunday at 16:00
+Andrii: I can do Sunday at 17:00
+George: I can do Sunday at 11:00
+Daniel: I can do Sunday at 13:00
+Nivi: I can do Thursday at 11:00
+Gil: My yard is available Thursday at 18:00
+Eli: My yard is available Thursday at 13:00
+Yakir: My yard is available Wednesday at 11:00
+Michael: My yard is available Wednesday at 10:00
+Andrii: My yard is available Tuesday at 17:00
+George: My yard is available Tuesday at 14:00
+Daniel: My yard is available Sunday at 16:00
+Nivi: My yard is available Tuesday at 11:00
+Gil: I can do Sunday at 16:00
+Eli: I can do Sunday at 13:00
+Yakir: I can do Monday at 12:00
+Michael: I can do Thursday at 14:00
+Andrii: I can do Sunday at 15:00
+George: I can do Thursday at 18:00
+Daniel: I can do Tuesday at 10:00
+Nivi: I can do Monday at 14:00
+Gil: My yard is available Sunday at 10:00
+Eli: My yard is available Wednesday at 11:00
+Yakir: My yard is available Thursday at 18:00
+Michael: My yard is available Tuesday at 13:00
+Andrii: My yard is available Thursday at 14:00
+George: My yard is available Thursday at 18:00
+Daniel: My yard is available Sunday at 15:00
+Nivi: My yard is available Monday at 19:00
+Gil: I can do Tuesday at 11:00
+Eli: I can do Wednesday at 14:00
+Yakir: I can do Thursday at 15:00
+Michael: I can do Sunday at 17:00
+Andrii: I can do Monday at 11:00
+George: I can do Sunday at 10:00
+Daniel: I can do Monday at 18:00
+Nivi: I can do Wednesday at 13:00
+Gil: My yard is available Sunday at 12:00
+Eli: My yard is available Tuesday at 18:00
+Yakir: My yard is available Wednesday at 16:00
+Michael: My yard is available Monday at 19:00
+Andrii: My yard is available Tuesday at 19:00
+George: My yard is available Tuesday at 14:00
+Daniel: My yard is available Sunday at 18:00
+Nivi: My yard is available Monday at 15:00
+Gil: I can do Wednesday at 17:00
+Eli: I can do Monday at 13:00
+Yakir: I can do Tuesday at 16:00
+Michael: I can do Thursday at 13:00
+Andrii: I can do Thursday at 12:00
+George: I can do Monday at 10:00
+Daniel: I can do Wednesday at 16:00
+Nivi: I can do Tuesday at 10:00
+Gil: My yard is available Tuesday at 15:00
+Eli: My yard is available Monday at 16:00
+Yakir: My yard is available Sunday at 15:00
+Michael: My yard is available Monday at 18:00
+Andrii: My yard is available Wednesday at 10:00
+George: My yard is available Monday at 16:00
+Daniel: My yard is available Tuesday at 11:00
+Nivi: My yard is available Wednesday at 12:00
+Gil: I can do Tuesday at 10:00
+Eli: I can do Sunday at 16:00
+Yakir: I can do Sunday at 18:00
+Michael: I can do Thursday at 12:00
+Andrii: I can do Monday at 15:00
+George: I can do Tuesday at 13:00
+Daniel: I can do Monday at 16:00
+Nivi: I can do Monday at 12:00
+Gil: My yard is available Monday at 17:00
+Eli: My yard is available Tuesday at 10:00
+Yakir: My yard is available Sunday at 14:00
+Michael: My yard is available Wednesday at 18:00
+Andrii: My yard is available Wednesday at 16:00
+George: My yard is available Thursday at 16:00
+Daniel: My yard is available Sunday at 14:00
+Nivi: My yard is available Wednesday at 12:00
+Gil: I can do Thursday at 15:00
+Eli: I can do Sunday at 12:00
+Yakir: I can do Monday at 14:00
+Michael: I can do Wednesday at 11:00
+Andrii: I can do Sunday at 17:00
+George: I can do Sunday at 19:00
+Daniel: I can do Wednesday at 10:00
+Nivi: I can do Monday at 11:00
+Gil: My yard is available Monday at 10:00
+Eli: My yard is available Wednesday at 12:00
+Yakir: My yard is available Tuesday at 15:00
+Michael: My yard is available Thursday at 14:00
+Andrii: My yard is available Monday at 19:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Monday at 16:00
+Nivi: My yard is available Wednesday at 13:00
+Gil: I can do Tuesday at 19:00
+Eli: I can do Sunday at 15:00
+Yakir: I can do Thursday at 18:00
+Michael: I can do Wednesday at 16:00
+Andrii: I can do Monday at 15:00
+George: I can do Tuesday at 19:00
+Daniel: I can do Tuesday at 14:00
+Nivi: I can do Sunday at 17:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Thursday at 13:00
+Yakir: My yard is available Sunday at 10:00
+Michael: My yard is available Thursday at 15:00
+Andrii: My yard is available Tuesday at 10:00
+George: My yard is available Tuesday at 13:00
+Daniel: My yard is available Thursday at 12:00
+Nivi: My yard is available Sunday at 17:00
+Gil: I can do Thursday at 16:00
+Eli: I can do Wednesday at 14:00
+Yakir: I can do Wednesday at 15:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Sunday at 10:00
+George: I can do Sunday at 19:00
+Daniel: I can do Tuesday at 16:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Thursday at 15:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Sunday at 15:00
+Michael: My yard is available Tuesday at 12:00
+Andrii: My yard is available Thursday at 16:00
+George: My yard is available Monday at 10:00
+Daniel: My yard is available Wednesday at 16:00
+Nivi: My yard is available Sunday at 19:00
+Gil: I can do Sunday at 10:00
+Eli: I can do Wednesday at 10:00
+Yakir: I can do Sunday at 15:00
+Michael: I can do Monday at 11:00
+Andrii: I can do Thursday at 16:00
+George: I can do Wednesday at 16:00
+Daniel: I can do Tuesday at 18:00
+Nivi: I can do Thursday at 18:00
+Gil: My yard is available Wednesday at 15:00
+Eli: My yard is available Wednesday at 19:00
+Yakir: My yard is available Monday at 16:00
+Michael: My yard is available Monday at 13:00
+Andrii: My yard is available Tuesday at 12:00
+George: My yard is available Tuesday at 14:00
+Daniel: My yard is available Thursday at 18:00
+Nivi: My yard is available Thursday at 19:00
+Gil: I can do Wednesday at 18:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Monday at 18:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Sunday at 19:00
+George: I can do Wednesday at 11:00
+Daniel: I can do Tuesday at 14:00
+Nivi: I can do Sunday at 19:00
+Gil: My yard is available Tuesday at 10:00
+Eli: My yard is available Thursday at 14:00
+Yakir: My yard is available Monday at 13:00
+Michael: My yard is available Sunday at 11:00
+Andrii: My yard is available Wednesday at 12:00
+George: My yard is available Thursday at 18:00
+Daniel: My yard is available Wednesday at 19:00
+Nivi: My yard is available Tuesday at 12:00
+Gil: I can do Thursday at 14:00
+Eli: I can do Thursday at 18:00
+Yakir: I can do Wednesday at 19:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Tuesday at 14:00
+George: I can do Tuesday at 12:00
+Daniel: I can do Tuesday at 16:00
+Nivi: I can do Sunday at 15:00
+Gil: My yard is available Wednesday at 19:00
+Eli: My yard is available Wednesday at 12:00
+Yakir: My yard is available Monday at 14:00
+Michael: My yard is available Thursday at 10:00
+Andrii: My yard is available Thursday at 12:00
+George: My yard is available Sunday at 11:00
+Daniel: My yard is available Thursday at 10:00
+Nivi: My yard is available Tuesday at 10:00
+Gil: I can do Sunday at 10:00
+Eli: I can do Monday at 10:00
+Yakir: I can do Sunday at 12:00
+Michael: I can do Sunday at 19:00
+Andrii: I can do Wednesday at 18:00
+George: I can do Monday at 15:00
+Daniel: I can do Thursday at 15:00
+Nivi: I can do Monday at 16:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Wednesday at 13:00
+Yakir: My yard is available Monday at 15:00
+Michael: My yard is available Sunday at 11:00
+Andrii: My yard is available Sunday at 14:00
+George: My yard is available Sunday at 14:00
+Daniel: My yard is available Wednesday at 16:00
+Nivi: My yard is available Sunday at 11:00
+Gil: I can do Sunday at 14:00
+Eli: I can do Sunday at 13:00
+Yakir: I can do Thursday at 18:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Thursday at 10:00
+George: I can do Sunday at 18:00
+Daniel: I can do Wednesday at 15:00
+Nivi: I can do Thursday at 15:00
+Gil: My yard is available Thursday at 11:00
+Eli: My yard is available Thursday at 19:00
+Yakir: My yard is available Thursday at 17:00
+Michael: My yard is available Tuesday at 13:00
+Andrii: My yard is available Sunday at 18:00
+George: My yard is available Thursday at 11:00
+Daniel: My yard is available Sunday at 14:00
+Nivi: My yard is available Wednesday at 16:00
+Gil: I can do Tuesday at 16:00
+Eli: I can do Sunday at 19:00
+Yakir: I can do Tuesday at 12:00
+Michael: I can do Sunday at 13:00
+Andrii: I can do Thursday at 19:00
+George: I can do Wednesday at 14:00
+Daniel: I can do Sunday at 14:00
+Nivi: I can do Wednesday at 11:00
+Gil: My yard is available Monday at 12:00
+Eli: My yard is available Monday at 18:00
+Yakir: My yard is available Tuesday at 17:00
+Michael: My yard is available Sunday at 15:00
+Andrii: My yard is available Wednesday at 14:00
+George: My yard is available Wednesday at 10:00
+Daniel: My yard is available Wednesday at 10:00
+Nivi: My yard is available Thursday at 13:00
+Gil: I can do Wednesday at 12:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Wednesday at 18:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Wednesday at 19:00
+George: I can do Thursday at 11:00
+Daniel: I can do Monday at 14:00
+Nivi: I can do Sunday at 14:00
+Gil: My yard is available Sunday at 16:00
+Eli: My yard is available Sunday at 10:00
+Yakir: My yard is available Sunday at 15:00
+Michael: My yard is available Sunday at 13:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Sunday at 10:00
+Daniel: My yard is available Tuesday at 19:00
+Nivi: My yard is available Thursday at 14:00
+Gil: I can do Wednesday at 15:00
+Eli: I can do Wednesday at 14:00
+Yakir: I can do Tuesday at 11:00
+Michael: I can do Monday at 12:00
+Andrii: I can do Monday at 13:00
+George: I can do Monday at 14:00
+Daniel: I can do Sunday at 14:00
+Nivi: I can do Sunday at 15:00
+Gil: My yard is available Thursday at 16:00
+Eli: My yard is available Wednesday at 15:00
+Yakir: My yard is available Tuesday at 10:00
+Michael: My yard is available Sunday at 18:00
+Andrii: My yard is available Wednesday at 13:00
+George: My yard is available Sunday at 14:00
+Daniel: My yard is available Monday at 14:00
+Nivi: My yard is available Wednesday at 13:00
+Gil: I can do Thursday at 14:00
+Eli: I can do Monday at 11:00
+Yakir: I can do Wednesday at 11:00
+Michael: I can do Thursday at 10:00
+Andrii: I can do Thursday at 13:00
+George: I can do Sunday at 18:00
+Daniel: I can do Tuesday at 11:00
+Nivi: I can do Monday at 10:00
+Gil: My yard is available Monday at 19:00
+Eli: My yard is available Monday at 10:00
+Yakir: My yard is available Thursday at 14:00
+Michael: My yard is available Monday at 13:00
+Andrii: My yard is available Wednesday at 11:00
+George: My yard is available Sunday at 14:00
+Daniel: My yard is available Monday at 17:00
+Nivi: My yard is available Monday at 16:00
+Gil: I can do Thursday at 17:00
+Eli: I can do Tuesday at 10:00
+Yakir: I can do Monday at 15:00
+Michael: I can do Wednesday at 15:00
+Andrii: I can do Tuesday at 11:00
+George: I can do Monday at 19:00
+Daniel: I can do Monday at 15:00
+Nivi: I can do Sunday at 13:00
+Gil: My yard is available Wednesday at 12:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Tuesday at 18:00
+Michael: My yard is available Monday at 15:00
+Andrii: My yard is available Tuesday at 15:00
+George: My yard is available Sunday at 10:00
+Daniel: My yard is available Tuesday at 12:00
+Nivi: My yard is available Tuesday at 14:00
+Gil: I can do Tuesday at 15:00
+Eli: I can do Wednesday at 16:00
+Yakir: I can do Sunday at 12:00
+Michael: I can do Thursday at 18:00
+Andrii: I can do Monday at 10:00
+George: I can do Wednesday at 15:00
+Daniel: I can do Thursday at 15:00
+Nivi: I can do Monday at 11:00
+Gil: My yard is available Monday at 14:00
+Eli: My yard is available Tuesday at 15:00
+Yakir: My yard is available Monday at 12:00
+Michael: My yard is available Monday at 17:00
+Andrii: My yard is available Wednesday at 12:00
+George: My yard is available Tuesday at 10:00
+Daniel: My yard is available Tuesday at 11:00
+Nivi: My yard is available Thursday at 10:00
+Gil: I can do Thursday at 18:00
+Eli: I can do Thursday at 13:00
+Yakir: I can do Tuesday at 10:00
+Michael: I can do Sunday at 19:00
+Andrii: I can do Tuesday at 18:00
+George: I can do Sunday at 10:00
+Daniel: I can do Thursday at 16:00
+Nivi: I can do Tuesday at 15:00
+Gil: My yard is available Tuesday at 12:00
+Eli: My yard is available Thursday at 13:00
+Yakir: My yard is available Monday at 15:00
+Michael: My yard is available Monday at 17:00
+Andrii: My yard is available Thursday at 14:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Tuesday at 12:00
+Nivi: My yard is available Sunday at 10:00
+Gil: I can do Monday at 16:00
+Eli: I can do Wednesday at 18:00
+Yakir: I can do Sunday at 19:00
+Michael: I can do Thursday at 12:00
+Andrii: I can do Monday at 19:00
+George: I can do Tuesday at 11:00
+Daniel: I can do Wednesday at 13:00
+Nivi: I can do Wednesday at 17:00
+Gil: My yard is available Thursday at 15:00
+Eli: My yard is available Thursday at 15:00
+Yakir: My yard is available Sunday at 15:00
+Michael: My yard is available Monday at 19:00
+Andrii: My yard is available Monday at 18:00
+George: My yard is available Sunday at 13:00
+Daniel: My yard is available Sunday at 18:00
+Nivi: My yard is available Monday at 19:00
+Gil: I can do Thursday at 19:00
+Eli: I can do Monday at 19:00
+Yakir: I can do Sunday at 11:00
+Michael: I can do Thursday at 12:00
+Andrii: I can do Sunday at 19:00
+George: I can do Wednesday at 19:00
+Daniel: I can do Monday at 18:00
+Nivi: I can do Monday at 10:00
+Gil: My yard is available Wednesday at 19:00
+Eli: My yard is available Tuesday at 16:00
+Yakir: My yard is available Monday at 18:00
+Michael: My yard is available Thursday at 18:00
+Andrii: My yard is available Wednesday at 13:00
+George: My yard is available Sunday at 16:00
+Daniel: My yard is available Monday at 16:00
+Nivi: My yard is available Sunday at 13:00
+Gil: I can do Thursday at 15:00
+Eli: I can do Sunday at 10:00
+Yakir: I can do Sunday at 17:00
+Michael: I can do Sunday at 19:00
+Andrii: I can do Monday at 17:00
+George: I can do Monday at 14:00
+Daniel: I can do Wednesday at 12:00
+Nivi: I can do Monday at 11:00
+Gil: My yard is available Wednesday at 14:00
+Eli: My yard is available Wednesday at 18:00
+Yakir: My yard is available Monday at 16:00
+Michael: My yard is available Monday at 10:00
+Andrii: My yard is available Tuesday at 10:00
+George: My yard is available Thursday at 15:00
+Daniel: My yard is available Monday at 18:00
+Nivi: My yard is available Tuesday at 17:00
+Gil: I can do Tuesday at 17:00
+Eli: I can do Sunday at 15:00
+Yakir: I can do Tuesday at 15:00
+Michael: I can do Tuesday at 16:00
+Andrii: I can do Monday at 14:00
+George: I can do Wednesday at 10:00
+Daniel: I can do Tuesday at 13:00
+Nivi: I can do Thursday at 13:00
+Gil: My yard is available Thursday at 10:00
+Eli: My yard is available Sunday at 17:00
+Yakir: My yard is available Wednesday at 15:00
+Michael: My yard is available Thursday at 19:00
+Andrii: My yard is available Tuesday at 18:00
+George: My yard is available Thursday at 10:00
+Daniel: My yard is available Sunday at 10:00
+Nivi: My yard is available Wednesday at 14:00
+Gil: I can do Tuesday at 10:00
+Eli: I can do Tuesday at 16:00
+Yakir: I can do Wednesday at 13:00
+Michael: I can do Wednesday at 14:00
+Andrii: I can do Tuesday at 16:00
+George: I can do Sunday at 10:00
+Daniel: I can do Wednesday at 17:00
+Nivi: I can do Thursday at 14:00
+Gil: My yard is available Wednesday at 11:00
+Eli: My yard is available Monday at 15:00
+Yakir: My yard is available Thursday at 14:00
+Michael: My yard is available Tuesday at 17:00
+Andrii: My yard is available Thursday at 14:00
+George: My yard is available Wednesday at 15:00
+Daniel: My yard is available Monday at 18:00
+Nivi: My yard is available Thursday at 12:00
+Gil: I can do Thursday at 11:00
+Eli: I can do Sunday at 14:00
+Yakir: I can do Thursday at 16:00
+Michael: I can do Thursday at 11:00
+Andrii: I can do Wednesday at 19:00
+George: I can do Sunday at 11:00
+Daniel: I can do Wednesday at 13:00
+Nivi: I can do Wednesday at 13:00
+Gil: My yard is available Sunday at 17:00
+Eli: My yard is available Monday at 13:00
+Yakir: My yard is available Tuesday at 14:00
+Michael: My yard is available Tuesday at 11:00
+Andrii: My yard is available Thursday at 18:00
+George: My yard is available Wednesday at 10:00
+Daniel: My yard is available Sunday at 15:00
+Nivi: My yard is available Tuesday at 16:00
+Gil: I can do Sunday at 11:00
+Eli: I can do Thursday at 18:00
+Yakir: I can do Wednesday at 19:00
+Michael: I can do Wednesday at 11:00
+Andrii: I can do Tuesday at 18:00
+George: I can do Sunday at 18:00
+Daniel: I can do Thursday at 10:00
+Nivi: I can do Wednesday at 16:00
+Gil: My yard is available Sunday at 18:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Tuesday at 10:00
+Michael: My yard is available Thursday at 12:00
+Andrii: My yard is available Thursday at 17:00
+George: My yard is available Thursday at 11:00
+Daniel: My yard is available Wednesday at 14:00
+Nivi: My yard is available Thursday at 13:00
+Gil: I can do Sunday at 15:00
+Eli: I can do Sunday at 19:00
+Yakir: I can do Sunday at 10:00
+Michael: I can do Monday at 16:00
+Andrii: I can do Wednesday at 15:00
+George: I can do Monday at 11:00
+Daniel: I can do Sunday at 10:00
+Nivi: I can do Monday at 10:00
+Gil: My yard is available Monday at 15:00
+Eli: My yard is available Wednesday at 13:00
+Yakir: My yard is available Monday at 13:00
+Michael: My yard is available Wednesday at 15:00
+Andrii: My yard is available Monday at 13:00
+George: My yard is available Monday at 14:00
+Daniel: My yard is available Sunday at 16:00
+Nivi: My yard is available Wednesday at 12:00
+Gil: I can do Thursday at 15:00
+Eli: I can do Thursday at 19:00
+Yakir: I can do Wednesday at 18:00
+Michael: I can do Thursday at 13:00
+Andrii: I can do Sunday at 10:00
+George: I can do Sunday at 15:00
+Daniel: I can do Thursday at 13:00
+Nivi: I can do Wednesday at 11:00
+Gil: My yard is available Monday at 15:00
+Eli: My yard is available Thursday at 18:00
+Yakir: My yard is available Wednesday at 18:00
+Michael: My yard is available Monday at 17:00
+Andrii: My yard is available Monday at 16:00
+George: My yard is available Tuesday at 15:00
+Daniel: My yard is available Sunday at 13:00
+Nivi: My yard is available Thursday at 17:00
+Gil: I can do Tuesday at 18:00
+Eli: I can do Sunday at 15:00
+Yakir: I can do Wednesday at 10:00
+Michael: I can do Wednesday at 19:00
+Andrii: I can do Monday at 15:00
+George: I can do Tuesday at 11:00
+Daniel: I can do Monday at 19:00
+Nivi: I can do Thursday at 19:00
+Gil: My yard is available Tuesday at 10:00
+Eli: My yard is available Sunday at 14:00
+Yakir: My yard is available Thursday at 15:00
+Michael: My yard is available Wednesday at 13:00
+Andrii: My yard is available Monday at 17:00
+George: My yard is available Thursday at 19:00
+Daniel: My yard is available Thursday at 15:00
+Nivi: My yard is available Sunday at 15:00
+Gil: I can do Sunday at 18:00
+Eli: I can do Tuesday at 14:00
+Yakir: I can do Sunday at 16:00
+Michael: I can do Wednesday at 17:00
+Andrii: I can do Thursday at 18:00
+George: I can do Wednesday at 17:00
+Daniel: I can do Thursday at 14:00
+Nivi: I can do Wednesday at 14:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Monday at 19:00
+Yakir: My yard is available Sunday at 17:00
+Michael: My yard is available Thursday at 18:00
+Andrii: My yard is available Sunday at 17:00
+George: My yard is available Monday at 19:00
+Daniel: My yard is available Sunday at 13:00
+Nivi: My yard is available Monday at 17:00
+Gil: I can do Thursday at 16:00
+Eli: I can do Monday at 10:00
+Yakir: I can do Tuesday at 12:00
+Michael: I can do Wednesday at 15:00
+Andrii: I can do Wednesday at 19:00
+George: I can do Wednesday at 15:00
+Daniel: I can do Thursday at 14:00
+Nivi: I can do Monday at 10:00
+Gil: My yard is available Monday at 16:00
+Eli: My yard is available Monday at 13:00
+Yakir: My yard is available Tuesday at 11:00
+Michael: My yard is available Thursday at 15:00
+Andrii: My yard is available Monday at 11:00
+George: My yard is available Sunday at 19:00
+Daniel: My yard is available Tuesday at 17:00
+Nivi: My yard is available Sunday at 10:00
+Gil: I can do Thursday at 12:00
+Eli: I can do Tuesday at 13:00
+Yakir: I can do Wednesday at 14:00
+Michael: I can do Thursday at 13:00
+Andrii: I can do Wednesday at 13:00
+George: I can do Sunday at 16:00
+Daniel: I can do Thursday at 16:00
+Nivi: I can do Tuesday at 18:00
+Gil: My yard is available Thursday at 16:00
+Eli: My yard is available Sunday at 10:00
+Yakir: My yard is available Sunday at 19:00
+Michael: My yard is available Sunday at 19:00
+Andrii: My yard is available Tuesday at 11:00
+George: My yard is available Sunday at 17:00
+Daniel: My yard is available Sunday at 16:00
+Nivi: My yard is available Sunday at 18:00
+Gil: I can do Wednesday at 11:00
+Eli: I can do Wednesday at 10:00
+Yakir: I can do Thursday at 17:00
+Michael: I can do Monday at 13:00
+Andrii: I can do Wednesday at 12:00
+George: I can do Sunday at 11:00
+Daniel: I can do Tuesday at 17:00
+Nivi: I can do Sunday at 12:00
+Gil: My yard is available Tuesday at 14:00
+Eli: My yard is available Wednesday at 11:00
+Yakir: My yard is available Tuesday at 10:00
+Michael: My yard is available Sunday at 15:00
+Andrii: My yard is available Sunday at 17:00
+George: My yard is available Wednesday at 11:00
+Daniel: My yard is available Thursday at 15:00
+Nivi: My yard is available Thursday at 19:00
+Gil: I can do Sunday at 11:00
+Eli: I can do Tuesday at 19:00
+Yakir: I can do Wednesday at 16:00
+Michael: I can do Sunday at 16:00
+Andrii: I can do Tuesday at 13:00
+George: I can do Tuesday at 17:00
+Daniel: I can do Monday at 17:00
+Nivi: I can do Sunday at 12:00
+Gil: My yard is available Tuesday at 18:00
+Eli: My yard is available Sunday at 18:00
+Yakir: My yard is available Wednesday at 15:00
+Michael: My yard is available Tuesday at 11:00
+Andrii: My yard is available Thursday at 17:00
+George: My yard is available Tuesday at 17:00
+Daniel: My yard is available Thursday at 16:00
+Nivi: My yard is available Thursday at 10:00
+Gil: I can do Thursday at 19:00
+Eli: I can do Tuesday at 11:00
+Yakir: I can do Sunday at 11:00
+Michael: I can do Tuesday at 17:00
+Andrii: I can do Sunday at 19:00
+George: I can do Wednesday at 17:00
+Daniel: I can do Thursday at 18:00
+Nivi: I can do Thursday at 18:00
+Gil: My yard is available Sunday at 17:00
+Eli: My yard is available Tuesday at 17:00
+Yakir: My yard is available Thursday at 12:00
+Michael: My yard is available Monday at 10:00
+Andrii: My yard is available Wednesday at 15:00
+George: My yard is available Monday at 18:00
+Daniel: My yard is available Monday at 18:00
+Nivi: My yard is available Thursday at 18:00
+Gil: I can do Sunday at 12:00
+Eli: I can do Sunday at 11:00
+Yakir: I can do Sunday at 10:00
+Michael: I can do Thursday at 11:00
+Andrii: I can do Tuesday at 14:00
+George: I can do Thursday at 16:00
+Daniel: I can do Sunday at 14:00
+Nivi: I can do Sunday at 14:00
+Gil: My yard is available Wednesday at 15:00
+Eli: My yard is available Thursday at 15:00
+Yakir: My yard is available Monday at 18:00
+Michael: My yard is available Monday at 19:00
+Andrii: My yard is available Thursday at 15:00
+George: My yard is available Wednesday at 12:00
+Daniel: My yard is available Wednesday at 12:00
+Nivi: My yard is available Sunday at 10:00
+Gil: I can do Wednesday at 12:00
+Eli: I can do Wednesday at 15:00
+Yakir: I can do Wednesday at 15:00
+Michael: I can do Sunday at 18:00
+Andrii: I can do Tuesday at 10:00
+George: I can do Monday at 10:00
+Daniel: I can do Wednesday at 14:00
+Nivi: I can do Sunday at 12:00
+Gil: My yard is available Sunday at 17:00
+Eli: My yard is available Tuesday at 16:00
+Yakir: My yard is available Monday at 13:00
+Michael: My yard is available Thursday at 14:00
+Andrii: My yard is available Monday at 11:00
+George: My yard is available Sunday at 14:00
+Daniel: My yard is available Tuesday at 12:00
+Nivi: My yard is available Sunday at 19:00
+Gil: I can do Thursday at 17:00
+Eli: I can do Tuesday at 15:00
+Yakir: I can do Wednesday at 13:00
+Michael: I can do Monday at 11:00
+Andrii: I can do Tuesday at 14:00
+George: I can do Thursday at 16:00
+Daniel: I can do Monday at 16:00
+Nivi: I can do Sunday at 13:00
+Gil: My yard is available Tuesday at 12:00
+Eli: My yard is available Tuesday at 14:00
+Yakir: My yard is available Wednesday at 12:00
+Michael: My yard is available Tuesday at 11:00
+Andrii: My yard is available Tuesday at 10:00
+George: My yard is available Monday at 19:00
+Daniel: My yard is available Thursday at 19:00
+Nivi: My yard is available Sunday at 15:00
+Gil: I can do Monday at 16:00
+Eli: I can do Sunday at 17:00
+Yakir: I can do Thursday at 11:00
+Michael: I can do Sunday at 10:00
+Andrii: I can do Tuesday at 11:00
+George: I can do Thursday at 13:00
+Daniel: I can do Thursday at 12:00
+Nivi: I can do Thursday at 12:00
+Gil: My yard is available Monday at 19:00
+Eli: My yard is available Tuesday at 18:00
+Yakir: My yard is available Tuesday at 14:00
+Michael: My yard is available Thursday at 14:00
+Andrii: My yard is available Tuesday at 17:00
+George: My yard is available Wednesday at 13:00
+Daniel: My yard is available Tuesday at 19:00
+Nivi: My yard is available Tuesday at 15:00
+Gil: I can do Monday at 13:00
+Eli: I can do Tuesday at 16:00
+Yakir: I can do Monday at 15:00
+Michael: I can do Tuesday at 11:00
+Andrii: I can do Monday at 14:00
+George: I can do Monday at 18:00
+Daniel: I can do Thursday at 16:00
+Nivi: I can do Wednesday at 19:00
+Gil: My yard is available Monday at 12:00
+Eli: My yard is available Sunday at 18:00
+Yakir: My yard is available Thursday at 13:00
+Michael: My yard is available Sunday at 12:00
+Andrii: My yard is available Tuesday at 19:00
+George: My yard is available Monday at 15:00
+Daniel: My yard is available Sunday at 14:00
+Nivi: My yard is available Thursday at 18:00
+Gil: I can do Sunday at 12:00
+Eli: I can do Wednesday at 11:00
+Yakir: I can do Wednesday at 18:00
+Michael: I can do Wednesday at 19:00
+Andrii: I can do Wednesday at 15:00
+George: I can do Thursday at 14:00
+Daniel: I can do Sunday at 18:00
+Nivi: I can do Wednesday at 19:00
+Gil: My yard is available Wednesday at 15:00
+Eli: My yard is available Tuesday at 15:00
+Yakir: My yard is available Monday at 16:00
+Michael: My yard is available Monday at 19:00
+Andrii: My yard is available Thursday at 18:00
+George: My yard is available Wednesday at 11:00
+Daniel: My yard is available Monday at 18:00
+Nivi: My yard is available Tuesday at 10:00
+Gil: I can do Thursday at 15:00
+Eli: I can do Wednesday at 12:00
+Yakir: I can do Monday at 19:00
+Michael: I can do Thursday at 14:00
+Andrii: I can do Wednesday at 10:00
+George: I can do Thursday at 14:00
+Daniel: I can do Thursday at 14:00
+Nivi: I can do Tuesday at 14:00
+Gil: My yard is available Monday at 15:00
+Eli: My yard is available Thursday at 18:00
+Yakir: My yard is available Tuesday at 19:00
+Michael: My yard is available Wednesday at 19:00
+Andrii: My yard is available Thursday at 13:00
+George: My yard is available Sunday at 14:00
+Daniel: My yard is available Sunday at 18:00
+Nivi: My yard is available Sunday at 14:00
+Gil: I can do Tuesday at 17:00
+Eli: I can do Thursday at 11:00
+Yakir: I can do Wednesday at 17:00
+Michael: I can do Tuesday at 13:00
+Andrii: I can do Tuesday at 16:00
+George: I can do Tuesday at 12:00
+Daniel: I can do Wednesday at 13:00
+Nivi: I can do Wednesday at 15:00
+Gil: My yard is available Wednesday at 15:00
+Eli: My yard is available Sunday at 11:00
+Yakir: My yard is available Sunday at 10:00
+Michael: My yard is available Wednesday at 13:00
+Andrii: My yard is available Tuesday at 14:00
+George: My yard is available Thursday at 19:00
+Daniel: My yard is available Wednesday at 16:00
+Nivi: My yard is available Thursday at 15:00
+Gil: I can do Sunday at 17:00
+Eli: I can do Monday at 17:00
+Yakir: I can do Thursday at 16:00
+Michael: I can do Monday at 11:00
+Andrii: I can do Thursday at 15:00
+George: I can do Tuesday at 11:00
+Daniel: I can do Sunday at 11:00
+Nivi: I can do Wednesday at 10:00
+Gil: My yard is available Tuesday at 13:00
+Eli: My yard is available Monday at 11:00
+Yakir: My yard is available Sunday at 18:00
+Michael: My yard is available Thursday at 12:00
+Andrii: My yard is available Sunday at 18:00
+George: My yard is available Tuesday at 16:00
+Daniel: My yard is available Monday at 14:00
+Nivi: My yard is available Monday at 16:00
+Gil: I can do Thursday at 12:00
+Eli: I can do Wednesday at 17:00
+Yakir: I can do Thursday at 17:00
+Michael: I can do Wednesday at 12:00
+Andrii: I can do Sunday at 16:00
+George: I can do Wednesday at 19:00
+Daniel: I can do Sunday at 17:00
+Nivi: I can do Tuesday at 14:00
+Gil: My yard is available Tuesday at 16:00
+Eli: My yard is available Thursday at 15:00
+Yakir: My yard is available Thursday at 19:00
+Michael: My yard is available Tuesday at 19:00
+Andrii: My yard is available Wednesday at 13:00
+George: My yard is available Tuesday at 10:00
+Daniel: My yard is available Tuesday at 14:00
+Nivi: My yard is available Sunday at 18:00
+Gil: I can do Tuesday at 15:00
+Eli: I can do Tuesday at 10:00
+Yakir: I can do Monday at 10:00
+Michael: I can do Sunday at 18:00
+Andrii: I can do Thursday at 19:00
+George: I can do Tuesday at 13:00
+Daniel: I can do Thursday at 10:00
+Nivi: I can do Monday at 13:00
+Gil: My yard is available Thursday at 17:00
+Eli: My yard is available Thursday at 17:00
+Yakir: My yard is available Tuesday at 14:00
+Michael: My yard is available Wednesday at 16:00
+Andrii: My yard is available Monday at 18:00
+George: My yard is available Wednesday at 11:00
+Daniel: My yard is available Thursday at 18:00
+Nivi: My yard is available Thursday at 11:00
+Gil: I can do Thursday at 14:00
+Eli: I can do Tuesday at 17:00
+Yakir: I can do Tuesday at 15:00
+Michael: I can do Sunday at 10:00
+Andrii: I can do Monday at 19:00
+George: I can do Thursday at 18:00
+Daniel: I can do Wednesday at 18:00
+Nivi: I can do Thursday at 11:00
+Gil: My yard is available Thursday at 16:00
+Eli: My yard is available Monday at 14:00
+Yakir: My yard is available Sunday at 10:00
+Michael: My yard is available Monday at 11:00
+Andrii: My yard is available Sunday at 12:00
+George: My yard is available Thursday at 17:00
+Daniel: My yard is available Sunday at 18:00
+Nivi: My yard is available Tuesday at 19:00
